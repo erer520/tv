@@ -1,3 +1,55 @@
-央视频道,#genre#
-卫视频道,#genre#
-其他频道,#genre#
+#EXTM3U
+#EXTINF:-1 tvg-id="AlaraMyst" tvg-name="AlaraMyst"  AlaraMyst
+https://live-edge11-rn.bcvcdn.com/hls/stream_AlaraMyst/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,OrgazMia
+https://live-edge61-rn.bcvcdn.com/hls/stream_OrgazMia/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,LiiBaby
+https://live-edge36-rn.bcvcdn.com/hls/stream_Likachkaa/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,-Nezukoo-
+https://live-edge32-rn.bcvcdn.com/hls/stream_Nezukoo/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,Cristi-Cand
+https://live-edge76-rn.bcvcdn.com/hls/stream_EwaBrown/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,Sonya-reallsugar
+https://live-edge61-rn.bcvcdn.com/hls/stream_Sonya-reallsugar/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,EvaRoughe
+https://live-edge62-rn.bcvcdn.com/hls/stream_EvaRoughe/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,Cinnabon_ga
+https://live-edge41-rn.bcvcdn.com/hls/stream_Girl-Pleasure/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,ShyAlya
+https://live-edge72.bcvcdn.com/hls/stream_CrazyAleona/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,DianaBeautyX
+https://live-edge8-rn.bcvcdn.com/hls/stream_DianaBeautyX/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,-CandyViki-
+https://live-edge10-rn.bcvcdn.com/hls/stream_meow-777/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,JJane-
+https://live-edge78-rn.bcvcdn.com/hls/stream_Janchi-/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,AlaraMyst
+https://live-edge39-rn.bcvcdn.com/hls/stream_AlaraMyst/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,sashhhkino
+https://live-edge3-rn.bcvcdn.com/hls/stream_sashhhkino/playlist.m3u8
+#EXTINF:-1 logo="" group-title="亚洲" ,-Sara-
+https://live-edge13-rn.bcvcdn.com/hls/stream_Sara-/playlist.m3u8
+#EXTINF:-1 logo="" group-title="亚洲" ,minnie-joy
+https://live-edge69-rn.bcvcdn.com/hls/stream_minnie-joy/playlist.m3u8
+#EXTINF:-1 logo="" group-title="亚洲" ,Dollyiaa
+https://live-edge67-rn.bcvcdn.com/hls/stream_Dollyiaa/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中国" ,zhuli1163
+https://live-edge65-rn.bcvcdn.com/hls/stream_zhuli1163/playlist.m3u8
+#EXTINF:-1 logo="" group-title="亚洲" ,Yunleah
+https://live-edge43-rn.bcvcdn.com/hls/stream_LinaXin/playlist.m3u8
+#EXTINF:-1 logo="" group-title="亚洲" ,babydollalsi
+https://live-edge-us77-rn.bcvcdn.com/hls/stream_babydollalsi/playlist.m3u8
+#EXTINF:-1 logo="" group-title="亚洲" ,Goldlove1
+https://live-edge7-rn.bcvcdn.com/hls/stream_Arina979797/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中国" ,Nikishine11
+https://live-edge43-rn.bcvcdn.com/hls/stream_Nikishine11/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中国" ,LucianaMeca
+https://live-edge24-rn.bcvcdn.com/hls/stream_LucianaMeca/playlist.m3u8
+#EXTINF:-1 logo="" group-title="中国" ,nana7777
+https://live-edge30-rn.bcvcdn.com/hls/stream_nana7777/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,Kris-and-Vanessa
+https://live-edge-us23-rn.bcvcdn.com/hls/stream_Kris-and-Vanessa/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,MaoandLulu
+https://live-edge74-rn.bcvcdn.com/hls/stream_MaoandLulu/playlist.m3u8
+#EXTINF:-1 logo="" group-title="视频" ,Hannakeyn
+https://live-edge79-rn.bcvcdn.com/hls/stream_Hannakeyn/playlist.m3u8
